@@ -87,7 +87,7 @@ Python • OpenCV • Dlib • Tkinter
 GitHub:
 https://github.com/vpnotweepy06
 
-LinkedIn: *(Add your LinkedIn here)*
+LinkedIn: *https://www.linkedin.com/in/vishnupriya-rajan-105122334/*
 
 📍 Kerala, India
 
