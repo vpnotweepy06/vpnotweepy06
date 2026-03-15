@@ -7,14 +7,15 @@ I enjoy building intelligent systems and solving real-world problems using techn
 
 ## 🌱 About Me
 
-🎓 Computer Science Graduate (B.Tech 2021-25)
-💡 Interested in Machine Learning, Data Science, and Software Development
-🧠 Curious learner and problem solver
-🤝 Enjoy working in collaborative environments
+• 🎓 Computer Science Graduate (B.Tech 2021-25)
+
+• 💡 Interested in Machine Learning, Data Science, and Software Development
+
+• 🧠 Curious learner and problem solver
+
+• 🤝 Enjoy working in collaborative environments
 
 ---
-
-## 🎯 Skills & Technologies
 
 ## 🎯 Skills & Technologies
 
