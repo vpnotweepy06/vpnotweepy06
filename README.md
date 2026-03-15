@@ -7,8 +7,8 @@ I enjoy building intelligent systems and solving real-world problems using techn
 
 ## 🌱 About Me
 
-🎓 Computer Science Graduate
-💡 Interested in Machine Learning, Data Science, and AI Applications
+🎓 Computer Science Graduate (B.Tech 2021-25)
+💡 Interested in Machine Learning, Data Science, and Software Development
 🧠 Curious learner and problem solver
 🤝 Enjoy working in collaborative environments
 
@@ -18,11 +18,12 @@ I enjoy building intelligent systems and solving real-world problems using techn
 
 **Programming Languages**
 
-Python • Java • C++ • SQL
+Python • PSQL • Java • SQL
 
 **Data Science & Machine Learning**
 
-Machine Learning • Scikit-learn • NumPy • Pandas • Data Analysis
+Machine Learning • Scikit-learn • NumPy • Pandas • Data Analysis • TensorFlow • Seaborn • Matplotlib • Calculas •Statistics
+
 
 **Tools & Frameworks**
 
